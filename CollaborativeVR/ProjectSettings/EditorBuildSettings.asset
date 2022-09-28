@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Collaborative/Scenes/Examples/Ambiental/MainMenu_Core.unity
+    guid: 91cfb5c19b8d88344b08d50109c3ca87
+  - enabled: 1
+    path: Assets/Collaborative/Scenes/Examples/Ambiental/MainMenu_PartA.unity
+    guid: 9b8b63d5697ac3e408fa9787b415512c
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 202d4de25c8cbd04397789e52401fbcb,
       type: 2}
